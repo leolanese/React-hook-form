@@ -30,3 +30,7 @@ import { useForm, ErrorMessage } from "react-hook-form";
 We are going to register our uncontrolled component into the hook, using ref prop.
 
 > Using react-hook-form we have control of the uncontrolled and controlled components, which can provide a better performance.
+
+
+### Further information:
+RBX UI lib: https://dfee.github.io/rbx/elements/title
